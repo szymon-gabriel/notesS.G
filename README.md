@@ -3,6 +3,7 @@
 **notes 0.5** is my first project that I started working on right after I learned the basics of the JAVA language. It is not perfect, but I wrote it in such a way that everyone could understand it, even people who are just starting their adventure with JAVA.
 I added a lot of tips, comments, to let you know what the function does, if you have any questions or want to report a bug, please DM me.
 
+<h6 align="center">THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</h6>
 
 <hr>
 
