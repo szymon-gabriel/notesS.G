@@ -5,6 +5,14 @@ I added a lot of tips, comments, to let you know what the function does, if you 
 
 
 <hr>
+
+<img align="center" src="https://github.com/szymon-gabriel/notesS.G/assets/141585512/b40dde9e-603b-468e-9ce0-bdf92ddbc6fd"/>
+<h3>
+<img align="center" src="https://github.com/szymon-gabriel/notesS.G/assets/141585512/b40dde9e-603b-468e-9ce0-bdf92ddbc6fd"/>
+<h3>
+<img align="center" src="https://github.com/szymon-gabriel/notesS.G/assets/141585512/c83987b8-28bf-4d82-bb81-0cdb80c4dd57"/>
+
+<h1>
 <h2 align="center">About me</h1>
 <h3 align="center">Hi 👋, I'm Szymon Wojciechowski, a future Software Developer, I work in regular job what is not connected with coding, more with making a program for a machine to proper working, but I spend my free time on building project like this, to improve myself, learn new skills and to work as a programmer someday.</h3>
 
