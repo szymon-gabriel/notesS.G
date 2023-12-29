@@ -18,7 +18,7 @@ I added a lot of tips, comments, to let you know what the function does, if you 
 <h3 align="center">Hi 👋, I'm Szymon Wojciechowski, a future Software Developer, I work in regular job what is not connected with coding, more with making a program for a machine to proper working, but I spend my free time on building project like this, to improve myself, learn new skills and to work as a programmer someday.</h3>
 
 
-- 👨🏻‍💻 I’m currently working on [notes](https://github.com/szymon-gabriel/notesS.G)
+- 👨🏻‍💻 I’m currently working on [ATM.S.G](https://github.com/szymon-gabriel/ATM.S.G)
 
 - 🌱 I’m currently learning **HTML + CSS**
 
