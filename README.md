@@ -1,5 +1,10 @@
 <h1 align="center">notes 0.5</h1>
+<div>
+  <h6 align="center">
+<img src="https://github.com/szymon-gabriel/notesS.G/blob/master/app/src/main/resources/icon/notes.png" alt="centered image" style="width: 5vw; min-width: 5px;"/>
+</div>
 
+<hr>
 **notes 0.5** is my first project that I started working on right after I learned the basics of the JAVA language. It is not perfect, but I wrote it in such a way that everyone could understand it, even people who are just starting their adventure with JAVA.
 I added a lot of tips, comments, to let you know what the function does, if you have any questions or want to report a bug, please DM me.
 
